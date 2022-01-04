@@ -1,6 +1,6 @@
 # atc_project
 
-A new Flutter application.
+A new Flutter application for Trainings.
 
 ## Getting Started
 
